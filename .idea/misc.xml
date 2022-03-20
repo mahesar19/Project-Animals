@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.105" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.105" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/drawable/ic_launcher_background.xml" value="0.105" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/layout/activity_details.xml" value="0.3625" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/layout/activity_splash.xml" value="0.24814814814814815" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/layout/content_main.xml" value="0.24814814814814815" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/layout/custom_item_view.xml" value="0.24814814814814815" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/layout/navigation_header.xml" value="0.25" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/menu/nav_menu.xml" value="0.24814814814814815" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.105" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/JuaraAndroidS1/Project Animals/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.105" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/activity_details.xml" value="0.22" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/attr.xml" value="0.14722222222222223" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/custom_item_view.xml" value="0.14722222222222223" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/darkmode.xml" value="0.5" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/layout/navigation_header.xml" value="0.25" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/menu/nav_menu.xml" value="0.22" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1975" />
+        <entry key="..\:/Backup download (2)/KELAS XI/#JuaraAndroid/story-app-kotlin-main/story-app-kotlin-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

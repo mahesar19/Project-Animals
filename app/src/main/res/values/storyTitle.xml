@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Rubah Fennec</item>
+        <item>Panda Merah</item>
+        <item>Platipus</item>
+        <item>Rajawali Totol</item>
+        <item>Koala Arnan</item>
+        <item>Penguin</item>
+        <item>Burung Cenderawasih</item>
+        <item>Paus Orca</item>
+        <item>Salamander</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/1a/2-Fennec-Foxes-7-18-09-Tad-Motoyama-.-.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/fe/Ailurus_fulgens_RoterPanda_LesserPanda.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/48/Platypus_in_Geelong.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e6/Greater_spotted_eagle.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/06/Koala.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/be/Pygoscelis_papua.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/64/Lesser_Bird_of_Paradise.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/37/Killerwhales_jumping.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2020/06/15/05/25/amphibians-5300385_960_720.jpg</item>
+    </string-array>
+</resources>
